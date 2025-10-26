@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Karim 👋</h1>
 
 <p align="center">
-  💻 AI & Machine Learning Enthusiast | Python Developer | Problem Solver  
+  💻 AI & Deep Learning & Computer Vision Enthusiast | Problem Solver  
 </p>
 
 ---
