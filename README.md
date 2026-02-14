@@ -1,50 +1,51 @@
-<h1 align="center">Hi there, I'm Karim </h1>
+<h1 align="center">Hi there, I'm Karim</h1>
 
 <p align="center">
-   AI, Deep Learning & Computer Vision Enthusiast | Problem Solver | Generative AI Explorer
+   AI, Deep Learning & Computer Vision Enthusiast | Generative AI Explorer | Problem Solver
 </p>
 
 ---
 
-###  About Me
+###  Key Strengths & Expertise
 
-- I'm a Computer Science student deeply passionate about **Artificial Intelligence**.
-- I enjoy building **real-world AI systems** and solving complex problems using **machine learning, computer vision, and generative AI**.
-- Hands-on experience with **end-to-end AI projects**, from data preprocessing and model training to deployment and optimization.
-- Currently expanding expertise in **deep learning architectures, generative models, and applied AI research**.
-- Always eager to learn, collaborate, and contribute to impactful AI-driven products.
+- **End-to-End AI System Builder**: Experience in designing, training, and deploying ML & CV solutions.
+- **Computer Vision Expert**: Real-time face recognition, object detection, segmentation, and advanced CV pipelines.
+- **Generative AI & Deep Learning**: Skilled in GANs, VAEs, diffusion models, and prompt engineering.
+- **Applied AI Problem Solver**: Turning complex datasets into actionable insights and AI-driven applications.
+- Hands-on with **model optimization, evaluation, and deployment-ready AI systems**.
 
 ---
 
-###  Core Tech & Expertise
+###  Core Tech & Tools
 
-####  Programming & Tools
-- **Python**, **C++**, **Java**, **SQL**
+#### Programming & Development
+- **Python, C++, Java, SQL**
 - **Git & GitHub**, **PyCharm**, **Jupyter Notebook**
 
-####  Machine Learning & Deep Learning
+#### Machine Learning & Deep Learning
 - **PyTorch**, **TensorFlow / Keras**
-- **Model Optimization & Evaluation**
-- **Advanced ML Algorithms **
+- **Advanced ML Algorithms & Model Evaluation**
+- **Deployment & Optimization Techniques**
 
-####  Computer Vision
-- **OpenCV, MediaPipe, Dlib** for image/video processing and landmark detection
-- **CNN Architectures (ResNet, EfficientNet, MobileNet)** for classification & feature extraction
+#### Computer Vision 
+- **OpenCV, MediaPipe, Dlib** for image/video processing & landmark detection
+- **CNN Architectures**: ResNet, EfficientNet, MobileNet for classification & feature extraction
 - **Object Detection & Tracking**: YOLOv5/YOLOv8, Faster R-CNN
 - **Image Segmentation & Masking**: U-Net, DeepLab
+- **Real-time CV Systems with GUI/REST API Integration**
 
-####  Generative AI
-- **GANs, DCGAN, Conditional GANs**
+#### Generative AI 
+- **GANs (DCGAN, Conditional GANs)**
 - **Autoencoders & VAEs**
 - **Diffusion Models & Prompt Engineering**
-- **LLM Integration & AI Tooling**
+- **LLM Integration for AI Tooling**
 
 ---
 
 ###  Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/karim-anwr-4b71ab241)
-- 📩 karimbatah02@gmail.com
+-  karimbatah02@gmail.com
 
 ---
 
